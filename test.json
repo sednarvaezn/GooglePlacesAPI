@@ -1,0 +1,201 @@
+{
+    "1": {
+        "formatted_address": "Cra. 72 #429, Medell\u00edn, Antioquia, Colombia",
+        "geometry": {
+            "location": {
+                "lat": 6.2481352,
+                "lng": -75.5914303
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 6.249479229892722,
+                    "lng": -75.59004932010728
+                },
+                "southwest": {
+                    "lat": 6.246779570107278,
+                    "lng": -75.59274897989272
+                }
+            }
+        },
+        "name": "Edificio Coral",
+        "place_id": "ChIJP2cLTKcpRI4REvt5u7EMZKA",
+        "phone_number": "0"
+    },
+    "2": {
+        "formatted_address": "Cl. 37 #64a-41, Medell\u00edn, Antioquia, Colombia",
+        "geometry": {
+            "location": {
+                "lat": 6.2417706,
+                "lng": -75.5821003
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 6.243107629892721,
+                    "lng": -75.58075007010729
+                },
+                "southwest": {
+                    "lat": 6.240407970107277,
+                    "lng": -75.58344972989272
+                }
+            }
+        },
+        "name": "Edificio Torreon",
+        "place_id": "ChIJ5zfO764pRI4RvSlHMmCPIhw",
+        "phone_number": "0"
+    },
+    "3": {
+        "formatted_address": "a 65d-139, Cl. 35 #65d-1, Medell\u00edn, Antioquia, Colombia",
+        "geometry": {
+            "location": {
+                "lat": 6.2406259,
+                "lng": -75.58517069999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 6.24201242989272,
+                    "lng": -75.58378377010727
+                },
+                "southwest": {
+                    "lat": 6.239312770107277,
+                    "lng": -75.58648342989272
+                }
+            }
+        },
+        "name": "Edificio Juanes",
+        "place_id": "ChIJx4u1g68pRI4Rxc8X0GWJgwI",
+        "phone_number": "0"
+    },
+    "4": {
+        "formatted_address": "Cl. 43 #7816, Medell\u00edn, Antioquia, Colombia",
+        "geometry": {
+            "location": {
+                "lat": 6.249453,
+                "lng": -75.597003
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 6.250790779892721,
+                    "lng": -75.59565467010727
+                },
+                "southwest": {
+                    "lat": 6.248091120107278,
+                    "lng": -75.59835432989271
+                }
+            }
+        },
+        "name": "Edificio Am\u00e9rica",
+        "place_id": "ChIJZWQcqQopRI4R7slANQBHLcs",
+        "phone_number": "0"
+    },
+    "5": {
+        "formatted_address": "Av. Nutibara #74a-19, Medell\u00edn, Antioquia, Colombia",
+        "geometry": {
+            "location": {
+                "lat": 6.245468499999999,
+                "lng": -75.5958234
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 6.246850879892722,
+                    "lng": -75.59443802010729
+                },
+                "southwest": {
+                    "lat": 6.244151220107279,
+                    "lng": -75.59713767989273
+                }
+            }
+        },
+        "name": "Edificio Lomarena",
+        "place_id": "ChIJMd3BuKEpRI4Riybg30EUsxQ",
+        "phone_number": "0"
+    },
+    "6": "Not Found",
+    "7": {
+        "formatted_address": "Cl. 48b ## 66 -77, Medell\u00edn, Antioquia, Colombia",
+        "geometry": {
+            "location": {
+                "lat": 6.2539565,
+                "lng": -75.58397
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 6.255367279892722,
+                    "lng": -75.58259967010727
+                },
+                "southwest": {
+                    "lat": 6.252667620107278,
+                    "lng": -75.58529932989272
+                }
+            }
+        },
+        "name": "Portales de Alcala",
+        "place_id": "ChIJY8z0oc4pRI4RUMF_7GkZ4kc",
+        "phone_number": "(4) 2059076"
+    },
+    "8": {
+        "formatted_address": "Dg. 29 ###32a Sur-48, Envigado, Antioquia, Colombia",
+        "geometry": {
+            "location": {
+                "lat": 6.1750045,
+                "lng": -75.5777609
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 6.176334929892721,
+                    "lng": -75.57638812010728
+                },
+                "southwest": {
+                    "lat": 6.173635270107277,
+                    "lng": -75.57908777989273
+                }
+            }
+        },
+        "name": "Edificio Santa Ana PH",
+        "place_id": "ChIJ68tab5uDRo4RM7CWyCInBMo",
+        "phone_number": "311 5258137"
+    },
+    "9": {
+        "formatted_address": "Cl. 38 ##88-77, Medell\u00edn, Antioquia, Colombia",
+        "geometry": {
+            "location": {
+                "lat": 6.2486009,
+                "lng": -75.609676
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 6.249924479892722,
+                    "lng": -75.60834367010726
+                },
+                "southwest": {
+                    "lat": 6.247224820107278,
+                    "lng": -75.61104332989271
+                }
+            }
+        },
+        "name": "Edificio Santa Maria Real",
+        "place_id": "ChIJN0SOlYwpRI4ROk1VaHUUyn4",
+        "phone_number": "0"
+    },
+    "10": {
+        "formatted_address": "Cq. 1 #70-01, Medell\u00edn, Antioquia, Colombia",
+        "geometry": {
+            "location": {
+                "lat": 6.242341,
+                "lng": -75.5893626
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 6.2465955,
+                    "lng": -75.58423635
+                },
+                "southwest": {
+                    "lat": 6.238191499999999,
+                    "lng": -75.59442295
+                }
+            }
+        },
+        "name": "Universidad Pontificia Bolivariana",
+        "place_id": "ChIJX1rmSaQpRI4Rn4HoFqqmcoo",
+        "phone_number": "(4) 4488388"
+    }
+}
